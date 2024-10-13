@@ -1,0 +1,11 @@
+llama-index-core
+llama-index-llms-openai
+llama-index
+llama-index-readers-box
+python-dotenv
+colorama
+box-sdk-gen
+llama-index-embeddings-mistralai
+llama-index-vector-stores-pinecone
+llama-index-llms-text-generation-inference
+pinecone
